@@ -1,8 +1,12 @@
 Box Pushing Game
 This is a box pushing game, in a 12 * 12 map, the player needs to control a character to push the box to the destination, but the player cannot push the box towards the boundary or wall.
 
+
+
 How to play
 Players can control their character's actions through WASD and then player can press H to reset the game at any time, and press Q to exit the game.
+
+
 
 
 How to use
@@ -12,9 +16,9 @@ How to use
 
 3.Open a terminal or command line.
 
-4.Run the program with:
+4.Run the program with:  python3 game.py
 
-  python3 game.py
+
 
 
 File Structure
