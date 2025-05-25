@@ -6,15 +6,7 @@ How to play
 Players can control their character's actions through WASD and then player can press H to reset the game at any time, and press Q to exit the game.  
 
            
-How to use  
-1.Ensure you have Python 3 installed.
 
-2.Save all the code in a file.
-
-3.Open a terminal or command line.
-
-4.Run the program with:  python3 game.py  
-  
            
 File Structure  
 maze_map.py : Create a maze map and put down walls, destinations, boxes and characters.
